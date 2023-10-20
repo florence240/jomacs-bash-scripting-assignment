@@ -1,0 +1,10 @@
+#!/bin/bash
+
+#AUTHOR: FLORENCE KLIFI AHLIJAH
+#DATE CREATED: 21ST AUGUST, 2023
+#DESCRIPTION: BASHSCRIPT ASSIGNMENT 5a
+
+echo "This will exit with a 0 exit status"
+
+exit
+
